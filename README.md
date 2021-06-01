@@ -52,7 +52,7 @@ $ npm run test:cov
 ## Seeding
 
 ```bash
-# set up seed config
+# setup seed config
 $ npm run seed:config
 
 # seed database
