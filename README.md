@@ -58,3 +58,4 @@ $ npm run seed:config
 # seed database
 $ npm run seed:run
 ```
+Password for all seed users is 123456
